@@ -1,0 +1,17 @@
+{
+  "name": "unit-testing",
+  "version": "0.0.1",
+  "authors": [
+    "Vegard Stene <vstene@conta.no>"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "app/vendor",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "1.4.3",
+    "angular-mocks": "1.4.3"
+  }
+}
